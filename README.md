@@ -1,8 +1,8 @@
 # This task we going to clean the country column and parse the data column
 ## Import and Install the Libraries on Jupyter Notebook
-import numpy as np
-import pandas as pd
-from fuzzywuzzy import process
+>import numpy as np
+>import pandas as pd
+>from fuzzywuzzy import process
 ### Load the data
 first five observation
 Look all unique values in the 'country' column
